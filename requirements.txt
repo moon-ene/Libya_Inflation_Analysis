@@ -1,0 +1,8 @@
+pandas
+fredapi
+numpy
+seaborn
+matplotlib
+plotly
+statsmodels
+
